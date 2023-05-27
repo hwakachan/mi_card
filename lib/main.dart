@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
                 backgroundImage: AssetImage('Images/kirby-icon.png'),
               ),
               Text(
-                'hikaru wakatsuki',
+                'Hikaru Wakatsuki',
                 style: TextStyle(
                   fontFamily: 'Pacifico',
                   color: Colors.white,
